@@ -3,11 +3,11 @@ but continually improving myself as a developer. Due to my start in Physics and 
 learn in programming, my strengths currently lie in high level problems solving and my interdisciplinary knowledge.
 
 ### Interests
--Robotics
--Electronics
--Mathematics
--Soccer
--Choir
+- Robotics
+- Electronics
+- Mathematics
+- Soccer
+- Choir
 
 ### Education
 - B.S. Physics
