@@ -7,7 +7,7 @@ My goal is to work on mobile robotics for plantary exploration, be it the most e
 - Electronics
 - Mathematics
 - Soccer
-- Choir
+- Music Theory
 
 ### Education
 - B.S. Physics
